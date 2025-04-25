@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on @brauliopf</title>
+    <link>http://localhost:55494/blog/</link>
+    <description>Recent content in Blogs on @brauliopf</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:55494/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your NEW Post Title</title>
+      <link>http://localhost:55494/blog/new_post/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55494/blog/new_post/</guid>
+      <description>&lt;p&gt;Will this work?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Your Post Title</title>
+      <link>http://localhost:55494/blog/_template.md/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55494/blog/_template.md/</guid>
+      <description>&lt;p&gt;Content of your blog post goes here&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Your TEST Post Title</title>
+      <link>http://localhost:55494/blog/test-post/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55494/blog/test-post/</guid>
+      <description>&lt;p&gt;Hey there! BRAULIO!!!!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:55494/blog/_notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55494/blog/_notes/</guid>
+      <description>&lt;p&gt;hugo server -D: run server with draft visibility&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

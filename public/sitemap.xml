@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:55494/</loc>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:55494/blog/</loc>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:55494/tags/post/</loc>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:55494/tags/</loc>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:55494/blog/new_post/</loc>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:55494/blog/_template.md/</loc>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:55494/blog/test-post/</loc>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:55494/blog/_notes/</loc>
+  </url><url>
+    <loc>http://localhost:55494/authors/</loc>
+  </url><url>
+    <loc>http://localhost:55494/categories/</loc>
+  </url><url>
+    <loc>http://localhost:55494/series/</loc>
+  </url>
+</urlset>
