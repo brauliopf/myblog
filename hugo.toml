@@ -1,8 +1,10 @@
-### Ref: https://githubgit submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder.com/luizdepra/hugo-coder?tab=readme-ov-file
+### Ref (setting up blog workflow): https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/
+### Ref (nice theme -- that did not work): https://github.com/luizdepra/hugo-coder?tab=readme-ov-file
+### REf (nice theme that worked): https://github.com/janraasch/hugo-bearblog
 
 baseurl = "http://www.brauliopf.dev"
 title = "@brauliopf"
-theme = "hugo-bearblog"
+theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
