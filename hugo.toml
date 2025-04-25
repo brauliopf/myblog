@@ -1,8 +1,8 @@
-### Ref: https://github.com/luizdepra/hugo-coder?tab=readme-ov-file
+### Ref: https://githubgit submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder.com/luizdepra/hugo-coder?tab=readme-ov-file
 
 baseurl = "http://www.brauliopf.dev"
 title = "@brauliopf"
-theme = "hugo-coder"
+theme = "hugo-bearblog"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
